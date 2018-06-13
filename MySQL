@@ -1,0 +1,4 @@
+1. JDBC连接池实现原理？
+   超时机制？ 有socket_timeout, statement_timeout以及setAutoCommit()超时机制？
+   MySQL超时机制处理？
+   JDBC操作数据库超时之后，所提交的命令还会在server端执行吗？ send (kill command) 没有超时机制

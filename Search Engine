@@ -1,1 +1,26 @@
 
+搜索引擎技术点：
+
+* 爬虫 (Crawling)
+
+* 索引结构 (Inverted Index)
+
+* 检索模型 (VSM & TF-IDF)
+
+* 搜索排序 (Relevance Ranking & Evaluation)
+
+* 链接分析 (Link Analysis)
+
+* 分类 (Document & Query Classification)
+
+* 自然语言处理 (NLP: Tokenization, Lemmatization, POS Tagging, NER, etc.)
+
+* 分布式系统 (Distributed Processing & Storage)
+
+搜索引擎涉及的技术：
+
+* 系统：大规模分布式系统，支撑大规模的数据处理容量和在线查询负载
+
+* 数据：数据处理和挖掘能力
+
+* 算法：搜索相关性排序，查询分析，分类等等 
